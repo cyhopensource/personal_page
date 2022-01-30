@@ -1,1 +1,1 @@
-alert('xxx')
+alert('Welcome')
